@@ -43,6 +43,14 @@
 
 <br>
 
+## <img src="https://media.tenor.com/lbJXQL_diL0AAAAi/ahmeteroll.gif" width="35" height="30"><b> Github Profile Trophy </b>
+<br>
+
+<div align="center">
+  <a href="https://github.com/chuckmonsterxlx/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chuckmonsterxlx&theme=onedark" alt="trophy">
+  </a>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
